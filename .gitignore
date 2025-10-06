@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Models (>200MB not pushed to GitHub)
+# models/*.onnx
+
+*_faces/

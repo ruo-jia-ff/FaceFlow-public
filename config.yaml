@@ -1,0 +1,3 @@
+image_path: sample_image\132708392331985247.png
+detector: "retinaface"   # buffalo or retinaface
+device: "cpu"        # or "cpu"
