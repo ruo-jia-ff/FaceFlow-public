@@ -9,3 +9,5 @@ __pycache__/
 # models/*.onnx
 
 *_faces/
+
+*multi*
