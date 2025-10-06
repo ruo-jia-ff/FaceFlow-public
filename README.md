@@ -1,6 +1,6 @@
 # faceflow
 
-This repository provides a complete end-to-end face recognition pipeline, including face detection, cropping, alignment, and recognition. It takes raw images as input, automatically detects and aligns faces for consistency, and outputs embeddings for recognition tasks such as verification, identification, or clustering.
+This repository is a clone of https://github.com/Tanmay-FF/faceflow, but made public for implementation. The face_detection_and_alignmnet.py takes raw images as input, automatically detects and aligns faces for consistency, and outputs the cropped images only. Embedding / FR models are here but the script for them is not exposed yet until detection is resolved.
 
 ---
 
